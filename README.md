@@ -1,6 +1,6 @@
 <h1 ><p align="center">Hi there 👋, I'm Jonathan Dominguez</p> </h1>
 <h3><p align="center">I'm a Software Engineer who's been programming since 2014, with nearly 6 years of professional experience.</p></h3>
-<h3><p align="center">Most of my professional experience is in Python with automated test frameworks for embedded systems. I've also done some work with Java, Kotlin, and C#.</p></h3>
+<h3><p align="center">Most of my professional experience is in Python with automated test frameworks for embedded systems CI/CD pipelines. I've also done some work with Java, Kotlin, and C#.</p></h3>
 <h3><p align="center">I've also done some projects in C++/C and ASP.NET Core.</p></h3>
 <h3><p align="center">I love taking on new challenges that help me learn new technologies and grow as a software engineer.</p></h3>
 
