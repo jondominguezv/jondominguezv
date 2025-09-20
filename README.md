@@ -3,6 +3,10 @@
 <h3><p align="center">Most of my professional experience is in Python with automated test frameworks for embedded systems CI/CD pipelines. I've also done some work with Java, Kotlin, and C#.</p></h3>
 <h3><p align="center">I've also done some projects in C++/C and ASP.NET Core.</p></h3>
 <h3><p align="center">I love taking on new challenges that help me learn new technologies and grow as a software engineer.</p></h3>
+<h2><p align="center">Currently learning</p></h2>
+<p>- Machine Learning</p>
+<p>- Computer Vision</p>
+<p>- Robotics with ROS2 Humble</p>
 
 <!--
 **jondominguezv/jondominguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
