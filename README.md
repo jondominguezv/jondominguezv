@@ -1,5 +1,5 @@
 <h1 ><p align="center">Hi there 👋, I'm Jonathan Dominguez</p> </h1>
-<p align="center">I'm a Software Engineer who's been programming since 2014 when I first learned Java through an AP computer science course. I now have nearly 6 years of professional experience.</p>
+<p align="center">I'm a Software Engineer who's been programming since 2014 when I first learned Java through an AP computer science course. After achieving a Bachelor of Science in Computer Science from Florida International University, I now have nearly 6 years of professional experience.</p>
 <p align="center">Most of my professional experience is in Python working with CI/CD infrastructure for embedded systems. I've also done some work with Java, Kotlin, and C#.</p>
 <p align="center">I've also done some small projects in C++/C.</p>
 <p align="center"></p>
