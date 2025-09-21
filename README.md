@@ -4,6 +4,7 @@
 <p align="center">I've also done some small projects in C++/C.</p>
 <p align="center"></p>
 <h2><p align="center">Currently learning</p></h2>
+<p>- Embedded Systems</p>
 <p>- Machine Learning</p>
 <p>- Computer Vision</p>
 <p>- Robotics with ROS2 Humble</p>
