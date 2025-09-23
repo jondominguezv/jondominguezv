@@ -4,10 +4,11 @@
 <p align="center">I've also done some small projects in C++/C.</p>
 <p align="center"></p>
 <h2><p align="center">Currently learning</p></h2>
-<p>- Embedded Systems</p>
-<p>- Machine Learning</p>
-<p>- Computer Vision</p>
-<p>- Robotics with ROS2 Humble</p>
+<p align="center">- Javascript</p>
+<p align="center">- Embedded Systems</p>
+<p align="center">- Machine Learning</p>
+<p align="center">- Computer Vision</p>
+<p align="center">- Robotics with ROS2 Humble</p>
 
 <!--
 **jondominguezv/jondominguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
