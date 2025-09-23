@@ -4,7 +4,8 @@
 <p align="center">I've also done some small projects in C++/C.</p>
 <p align="center"></p>
 <h2><p align="center">Currently learning</p></h2>
-<p align="center">- Javascript</p>
+<p align="center">- Javascript & Typescript</p>
+<p align="center"><b>As well as a bit of</b></p>
 <p align="center">- Embedded Systems</p>
 <p align="center">- Machine Learning</p>
 <p align="center">- Computer Vision</p>
