@@ -8,6 +8,7 @@
 <p align="center">- Machine Learning</p>
 <p align="center">- Computer Vision</p>
 <p align="center">- Robotics with ROS2 Humble</p>
+<p align="center">- Also going through <a href="https://www.theodinproject.com/paths">Odin Project</a> course to refresh my web knowledge</p>
 
 <!--
 **jondominguezv/jondominguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
