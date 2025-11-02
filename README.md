@@ -4,7 +4,7 @@
 <p align="center">I've also done some small projects in C++/C.</p>
 <p align="center"></p>
 <h2><p align="center">Currently learning</p></h2>
-<p align="center">- Going through <a href="https://www.theodinproject.com/paths">Odin Project</a> course to refresh my web and Javascript knowledge</p>
+<p align="center">- Going through <a href="https://www.theodinproject.com/paths">Odin Project</a> course to refresh my web dev and Javascript knowledge</p>
 <p align="center">- Embedded Systems & Robotics with ROS2 Humble</p>
 
 <!--
