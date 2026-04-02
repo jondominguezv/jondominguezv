@@ -3,9 +3,6 @@
 <p align="center">Most of my professional experience is in Python working with CI/CD infrastructure for embedded systems. I've also done some work with Java, Kotlin, and C#.</p>
 <p align="center">I've also done some small projects in C++/C and JavaScript/TypeScript.</p>
 <p align="center"></p>
-<h2><p align="center">Currently learning</p></h2>
-<p align="center">- Going through <a href="https://www.theodinproject.com/paths">Odin Project</a> courses to refresh my web dev and Javascript knowledge</p>
-<p align="center">- Embedded Systems & Robotics with ROS2 Humble</p>
 
 <!--
 **jondominguezv/jondominguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
