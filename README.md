@@ -1,20 +1,27 @@
-<h1 ><p align="center">Hi there 👋, I'm Jonathan Dominguez</p> </h1>
-<p align="center">I'm a Software Engineer who's been programming since 2014 when I first learned Java through an AP computer science course. After achieving a Bachelor of Science in Computer Science at Florida International University I now have nearly 6 years of professional experience.</p>
-<p align="center">Most of my professional experience is in Python test frameworks and CI/CD infrastructure for embedded systems. I've also done some work with Java, Kotlin, and C#.</p>
-<p align="center">I've also done some small projects in C++/C and JavaScript/TypeScript.</p>
-<p align="center"></p>
-
-<!--
-**jondominguezv/jondominguezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Jonathan Dominguez
+ 
+**Software Engineer · Magic Leap · Miami, FL**
+ 
+Building AR test SDK, infrastructure and developer productivity tools. Interested in CI/CD observability, SDK design, and feature flag systems.
+ 
+---
+ 
+### Skills
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat&logo=bazel&logoColor=white)
+ 
+---
+ 
+### Currently exploring
+ 
+- 🔵 Golang - Self learning Golang
+---
+ 
+<sub>📍 Miami · 💼 [LinkedIn](https://linkedin.com/in/jonvdominguez)</sub>
