@@ -2,7 +2,7 @@
  
 **Software Engineer · Magic Leap · Miami, FL**
  
-Building AR test SDK, infrastructure and developer productivity tools. Interested in CI/CD observability, SDK design, and feature flag systems.
+Building AR test SDK, infrastructure and developer productivity tools.
  
 ---
  
